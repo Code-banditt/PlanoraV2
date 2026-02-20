@@ -46,7 +46,7 @@ export default function AuthLoader() {
             <div className="absolute -bottom-2 left-1/2 transform -translate-x-1/2 w-16 h-0.5 bg-gradient-to-r from-blue-400 to-cyan-400 rounded-full" />
           </div>
           <p className="mt-4 text-gray-500 text-sm font-light tracking-wider">
-            Modern Healthcare Platform
+            Modern Appointment Platform
           </p>
         </div>
 
